@@ -10,7 +10,7 @@ export function AlbumList(props: AlbumListProps) {
     <Container>
       <Subtitle> {props.title} </Subtitle>
       <Wrapper>
-        <AlbumItem />
+        <AlbumItem /> 
         <AlbumItem />
         <AlbumItem />
         <AlbumItem />
